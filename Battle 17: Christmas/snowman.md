@@ -1,3 +1,13 @@
+
+![snowman](https://user-images.githubusercontent.com/43888129/147415069-8b97de9e-b59c-4126-94dc-9c2d56bb7159.png)
+
+
+
+
+
+
+
+
 <div class="neck"></div>
 <div class="snow"></div>
 <div class="eye1"></div>
@@ -8,7 +18,7 @@
     background: #AC474B;
   }
   .hat{
-    background: linear-gradient(#0E1F2B 34%, #FFFFFF 33%, 	      #FFFFFF 55%,#0E1F2B 50%);
+    background: linear-gradient(#0E1F2B 34%, #FFFFFF 33%,#FFFFFF 55%,#0E1F2B 50%);
     height: 45px;
     width: 40px;
     position: absolute;
