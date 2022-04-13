@@ -1,5 +1,5 @@
 
-![beo](https://user-images.githubusercontent.com/43888129/163114109-5bfb0a1f-8aa5-4cb7-80f3-53b365ed95c9.png)
+![sealing wand](https://user-images.githubusercontent.com/43888129/163114109-5bfb0a1f-8aa5-4cb7-80f3-53b365ed95c9.png)
 
 
 
